@@ -1,6 +1,6 @@
 # CandyCrush Clone
 
-This is a clone of the popular mobile game "CandyCrush" creating using the ReactJS framework and it uses the "useState" and "useEffect" hooks
+This is a clone of the popular mobile game "CandyCrush" creating using the ReactJS library, which makes use of the "useState" and "useEffect" hooks
 
 This works the same way as the original mobile game with a score board feature
 
