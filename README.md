@@ -6,7 +6,7 @@ This works the same way as the original mobile game with a score board feature
 
 Feel free to mess around with the code to see how I made it
 
-Check out the live version here : https://asifridwan.github.io/candy-crush-clone/
+Check out the live version [over here](https://asifridwan.github.io/candy-crush-clone/)
 
 ![Alt Text](https://raw.githubusercontent.com/asifridwan/candy-crush-clone/main/screens/CaptureGame.PNG)
 
